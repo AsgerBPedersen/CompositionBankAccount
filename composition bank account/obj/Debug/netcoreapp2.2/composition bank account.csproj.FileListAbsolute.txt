@@ -1,0 +1,11 @@
+C:\Users\asge4899\source\repos\composition bank account\composition bank account\bin\Debug\netcoreapp2.2\composition bank account.deps.json
+C:\Users\asge4899\source\repos\composition bank account\composition bank account\bin\Debug\netcoreapp2.2\composition bank account.runtimeconfig.json
+C:\Users\asge4899\source\repos\composition bank account\composition bank account\bin\Debug\netcoreapp2.2\composition bank account.runtimeconfig.dev.json
+C:\Users\asge4899\source\repos\composition bank account\composition bank account\bin\Debug\netcoreapp2.2\composition bank account.dll
+C:\Users\asge4899\source\repos\composition bank account\composition bank account\bin\Debug\netcoreapp2.2\composition bank account.pdb
+C:\Users\asge4899\source\repos\composition bank account\composition bank account\obj\Debug\netcoreapp2.2\composition bank account.csprojAssemblyReference.cache
+C:\Users\asge4899\source\repos\composition bank account\composition bank account\obj\Debug\netcoreapp2.2\composition bank account.csproj.CoreCompileInputs.cache
+C:\Users\asge4899\source\repos\composition bank account\composition bank account\obj\Debug\netcoreapp2.2\composition bank account.AssemblyInfoInputs.cache
+C:\Users\asge4899\source\repos\composition bank account\composition bank account\obj\Debug\netcoreapp2.2\composition bank account.AssemblyInfo.cs
+C:\Users\asge4899\source\repos\composition bank account\composition bank account\obj\Debug\netcoreapp2.2\composition bank account.dll
+C:\Users\asge4899\source\repos\composition bank account\composition bank account\obj\Debug\netcoreapp2.2\composition bank account.pdb
